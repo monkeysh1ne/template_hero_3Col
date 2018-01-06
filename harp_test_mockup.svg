@@ -24,11 +24,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.6425781"
-     inkscape:cx="363.74994"
-     inkscape:cy="631.56826"
+     inkscape:zoom="1"
+     inkscape:cx="169.80484"
+     inkscape:cy="73.599203"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g5271"
      showgrid="false"
      inkscape:window-width="1680"
      inkscape:window-height="1026"
@@ -364,7 +364,7 @@
        id="path5905"
        inkscape:connector-curvature="0" />
     <rect
-       y="274.10349"
+       y="348.18668"
        x="-2.220446e-16"
        height="38.168537"
        width="203.28615"
@@ -386,13 +386,20 @@
          x="148.2314"
          id="tspan6153"
          sodipodi:role="line">blog</tspan></text>
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/dazza/Desktop/workspace/harp_test/img/logo.png"
+       inkscape:connector-curvature="0"
+       id="path1168"
+       d="m 100.33742,268.35144 a 3.9688135,3.9688135 0 0 0 -3.968722,3.96904 3.9688135,3.9688135 0 0 0 3.968722,3.96872 3.9688135,3.9688135 0 0 0 3.96873,-3.96872 3.9688135,3.9688135 0 0 0 -3.96873,-3.96904 z m 1.61231,0.74443 -1.61231,3.22461 h 1.61231 l -3.224611,3.2246 1.612301,-3.2246 h -1.612301 z"
+       style="fill:#000000;stroke:none;stroke-width:0.12389433" />
   </g>
   <g
      id="g5271"
      inkscape:label="lorem ipsum"
      inkscape:groupmode="layer"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
@@ -568,7 +575,7 @@
            style="display:inline;opacity:0.5;vector-effect:none;fill:#800000;fill-opacity:1;stroke-width:0.67448902;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">
           <polygon
              id="polygon5943"
-             points="-51,-1 -51,49 -155,49 -155,98 48,98 48,49 351,49 351,-1 "
+             points="-155,49 -155,98 48,98 48,49 351,49 351,-1 -51,-1 -51,49 "
              style="vector-effect:none;fill:#800000;fill-opacity:1;stroke-width:0.67448902;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
         </g>
       </g>
@@ -634,12 +641,12 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:Bebas;-inkscape-font-specification:Bebas;letter-spacing:0.10583333px;word-spacing:0.26458335px;fill:#f9f9f9;fill-opacity:1;stroke-width:0.26458335">we deliver quality results</tspan></text>
     <text
        id="text6139"
-       y="258.51685"
+       y="332.60004"
        x="14.805435"
        style="font-style:normal;font-weight:normal;font-size:10.58333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0.10583333px;word-spacing:0.26458335px;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.26458335"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:Bebas;-inkscape-font-specification:Bebas;letter-spacing:0.10583333px;word-spacing:0.26458335px;fill:#f9f9f9;fill-opacity:1;stroke-width:0.26458335"
-         y="258.51685"
+         y="332.60004"
          x="14.805435"
          id="tspan6137"
          sodipodi:role="line">about us</tspan></text>
@@ -647,21 +654,21 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0.10583333px;word-spacing:0.26458335px;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.26458335"
        x="46.555435"
-       y="258.51685"
+       y="332.60004"
        id="text6143"><tspan
          sodipodi:role="line"
          id="tspan6141"
          x="46.555435"
-         y="258.51685"
+         y="332.60004"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:Bebas;-inkscape-font-specification:Bebas;letter-spacing:0.10583333px;word-spacing:0.26458335px;fill:#f9f9f9;fill-opacity:1;stroke-width:0.26458335">work</tspan></text>
     <text
        id="text6147"
-       y="258.51685"
+       y="332.60004"
        x="73.013771"
        style="font-style:normal;font-weight:normal;font-size:10.58333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0.10583333px;word-spacing:0.26458335px;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.26458335"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:Bebas;-inkscape-font-specification:Bebas;letter-spacing:0.10583333px;word-spacing:0.26458335px;fill:#f9f9f9;fill-opacity:1;stroke-width:0.26458335"
-         y="258.51685"
+         y="332.60004"
          x="73.013771"
          id="tspan6145"
          sodipodi:role="line">contact</tspan></text>
@@ -669,36 +676,36 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0.10583333px;word-spacing:0.26458335px;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.26458335"
        x="104.76376"
-       y="258.51685"
+       y="332.60004"
        id="text6151"><tspan
          sodipodi:role="line"
          id="tspan6149"
          x="104.76376"
-         y="258.51685"
+         y="332.60004"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:Bebas;-inkscape-font-specification:Bebas;letter-spacing:0.10583333px;word-spacing:0.26458335px;fill:#f9f9f9;fill-opacity:1;stroke-width:0.26458335">blog</tspan></text>
     <path
        style="fill:none;stroke:#f9f9f9;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 14.35468,261.37579 h 21.15478 z m 0,2.64584 h 21.15478 z m 0,2.64583 h 11.716597 z"
+       d="m 14.35468,335.45917 h 21.15478 z m 0,2.64584 h 21.15478 z m 0,2.64583 h 11.716597 z"
        id="path6173"
        inkscape:connector-curvature="0" />
     <path
        id="path6180"
-       d="m 46.686349,261.3758 h 21.15478 z m 0,2.64583 h 21.15478 z m 0,2.64583 h 11.716598 z"
+       d="m 46.686349,335.45918 h 21.15478 z m 0,2.64583 h 21.15478 z m 0,2.64583 h 11.716598 z"
        style="fill:none;stroke:#f9f9f9;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:connector-curvature="0" />
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#f9f9f9;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 73.144685,261.3758 h 21.15478 z m 0,2.64583 h 21.15478 z m 0,2.64583 h 11.716598 z"
+       d="m 73.144685,335.45918 h 21.15478 z m 0,2.64583 h 21.15478 z m 0,2.64583 h 11.716598 z"
        id="path6182" />
     <path
        id="path6184"
-       d="m 104.89468,261.3758 h 21.15478 z m 0,2.64583 h 21.15478 z m 0,2.64583 h 11.7166 z"
+       d="m 104.89468,335.45918 h 21.15478 z m 0,2.64583 h 21.15478 z m 0,2.64583 h 11.7166 z"
        style="fill:none;stroke:#f9f9f9;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:connector-curvature="0" />
     <g
        id="g6352"
-       transform="translate(1.5875,19.579167)"
+       transform="translate(1.5875,93.662505)"
        style="opacity:0.63800001">
       <g
          style="fill:#55ddff"
@@ -725,7 +732,7 @@
     </g>
     <g
        id="g6346"
-       transform="translate(1.8520854,19.579167)"
+       transform="translate(1.8520854,93.662505)"
        style="opacity:0.63800001">
       <g
          style="opacity:1;vector-effect:none;fill:#55ddff;fill-opacity:1;stroke-width:0.43589306;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -745,7 +752,7 @@
                id="polygon6202" />
             <polygon
                style="vector-effect:none;fill:#55ddff;fill-opacity:1;stroke-width:0.43589306;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-               points="299,47 299,-2 501,-2 501,-52 -5,-52 -5,-3.087 -5,47 "
+               points="501,-2 501,-52 -5,-52 -5,-3.087 -5,47 299,47 299,-2 "
                id="polygon6204" />
           </g>
         </g>
@@ -778,7 +785,7 @@
     </g>
     <g
        id="g6334"
-       transform="translate(1.5875,19.579167)"
+       transform="translate(1.5875,93.662505)"
        style="opacity:0.63800001">
       <g
          style="opacity:1;vector-effect:none;fill:#55ddff;fill-opacity:1;stroke-width:0.2750262;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -798,7 +805,7 @@
                id="polygon6252" />
             <polygon
                style="vector-effect:none;fill:#55ddff;fill-opacity:1;stroke-width:0.2750262;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-               points="249,-2 451,-2 451,-52 -55,-52 -55,-3.087 -55,47 249,47 "
+               points="451,-52 -55,-52 -55,-3.087 -55,47 249,47 249,-2 451,-2 "
                id="polygon6254" />
           </g>
         </g>
@@ -840,23 +847,58 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.11666679px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.26458335"
        x="14.64386"
-       y="282.78192"
+       y="356.86511"
        id="text6356"><tspan
          sodipodi:role="line"
          id="tspan6354"
          x="14.64386"
-         y="282.78192"
+         y="356.86511"
          style="font-size:2.11666679px;fill:#f9f9f9;stroke-width:0.26458335">© 2018 YourCoy.  All rights reserved.</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666679px;line-height:1.25;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.26458335;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="143.38428"
-       y="282.72302"
+       y="356.80621"
        id="text6360"><tspan
          sodipodi:role="line"
          id="tspan6358"
          x="143.38428"
-         y="282.72302"
+         y="356.80621"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666679px;line-height:1.25;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.26458335;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">HOME | BLOG | ABOUT | CONTACT</tspan></text>
+    <g
+       style="display:inline"
+       id="g1023"
+       transform="translate(0,114.16254)">
+      <text
+         id="text1017"
+         y="122.24277"
+         x="93.108627"
+         style="font-style:normal;font-weight:normal;font-size:10.58333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777791px;font-family:Bebas;-inkscape-font-specification:Bebas;fill:#333333;fill-opacity:1;stroke-width:0.26458335"
+           y="122.24277"
+           x="93.108627"
+           id="tspan1015"
+           sodipodi:role="line">about us</tspan></text>
+      <path
+         style="fill:none;stroke:#333333;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 86.924264,120.61949 H 52.775709"
+         id="path1019"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path1021"
+         d="M 150.42429,120.61949 H 116.27572"
+         style="fill:none;stroke:#333333;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <path
+       style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:2.62024784"
+       d="m 57.653326,258.06029 v 1.77199 h 87.893344 v -1.77199 z m 0,5.29167 v 1.77199 h 87.893344 v -1.77199 z m 23.465753,5.29167 v 1.77198 H 122.0804 v -1.77198 z"
+       id="path1159"
+       inkscape:connector-curvature="0" />
   </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="about section" />
 </svg>
