@@ -1,0 +1,127 @@
+$dk_grey: #333333
+$lt_grey: #ececec
+$very_lt_grey: #fbfcfc
+$nav_links: #999
+$nav_link_hover: #333
+$hero: #fff
+$base_title_font: Bebas
+$base_title_font_size: 2em
+$hero_letter_spacing: .4em
+$base_font_size: 14px
+$values_font_size: $base_font_size*1.5
+$values_color: #444
+
+@import "normalize"
+
+
+html
+	margin: 0
+	padding: 0
+
+body
+	margin: 0px 30px
+	font-family: Helvetica, sans-serif
+	font-size: $base_font_size
+	header
+		.header-container
+			height: 70px
+			width: 100%
+			background-color: $lt_grey
+			border-top: 4px solid $dk_grey
+		.navigation
+			float: right
+			display: inline-block
+			margin-top: 30px
+			li
+				display: inline
+				padding-right: 30px
+				a
+					text-transform: uppercase
+					text-decoration: none
+					font-family: Bebas, sans-serif
+					color: $nav_links
+					&:hover
+						color: $nav_link_hover
+		.logo
+			display: inline-block
+			float: left
+			padding: 20px 20px 40px 20px
+		.logo-coy-name
+			display: inline-block
+			font-size: 1.5em
+			padding-top: 20px
+		
+	.hero-container
+		display: flex
+		flex-direction: column
+		justify-content: center
+		align-items: center
+		height: 50vh
+		width: 60vw
+		margin: 30px auto 50px
+		background-image: url(img/hero.jpg)
+		background-size: cover
+		.hero-title
+			color: $hero
+			font-family: $base_title_font
+			font-size: $base_title_font_size
+			letter-spacing: $hero_letter_spacing
+			border: solid $hero 10px
+			padding: 20px 30px
+		.hero-kicker
+			color: $hero
+			font-family: $base_title_font
+			font-size: $base_title_font_size/1.5
+			margin-top: 20px
+	
+	
+	.values-container
+		.values-title
+			font-family: $base_title_font
+			font-size: $values_font_size
+			color: $values_color
+			overflow: hidden
+			text-align: center
+			margin-bottom: 30px
+			&:before, &:after
+				background-color: $values_color
+				content: ""
+				display: inline-block
+				height: 2px
+				position: relative
+				vertical-align: middle
+				width: 10%
+			&:before
+				right: 0.5em
+				margin-left: -50%
+			&:after
+				left: 0.5em
+				margin-right: -50%
+		.value-heading
+			font-family: $base_title_font
+			font-size: $values_font_size/1.1
+			color: $values_color
+			text-align: left
+			padding-left: 20px
+		.values-list
+			background-color: $very_lt_grey
+			display: flex
+			flex-flow: row wrap
+			align-items: center
+			justify-content: center
+			width: 60vw
+			margin: 30px auto 20px
+			.values-cell
+				align-self: flex-start
+				width: 30%
+				font-family: 'Cormorant Garamond', serif;
+				p
+					padding: 0 20px
+					text-align: justify
+
+					
+								
+			
+						
+			
+		
