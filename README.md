@@ -5,3 +5,4 @@ This project creates a single page, static web page incorporating a Hero image a
 ## To Do
 
 - create media query breakpoints and styles to make site responsive
+- create floating goto TOP on vert centre right side of page (^)
