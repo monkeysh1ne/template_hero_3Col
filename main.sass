@@ -25,30 +25,27 @@ body
 	font-size: $base_font_size
 	header
 		.header-container
+			display: flex
+			flex-direction: row
 			height: 70px
 			width: 100%
 			background-color: $lt_grey
 			border-top: 4px solid $dk_grey
-		.navigation
-			float: right
-			display: inline-block
-			margin-top: 30px
-			li
-				display: inline
-				padding-right: 30px
+			justify-content: flex-end
+			.navigation
+				margin-top: 30px
+				flex-basis: 50%
+				text-align: right
 				a
 					text-transform: uppercase
 					text-decoration: none
 					font-family: Bebas, sans-serif
 					color: $nav_links
+					margin-right: 30px
 					&:hover
 						color: $nav_link_hover
-		.logo
-			display: inline-block
-			float: left
-			padding: 20px 20px 40px 20px
 		.logo-coy-name
-			display: inline-block
+			flex-basis: 45%
 			font-size: 1.5em
 			padding-top: 20px
 		
